@@ -6,3 +6,6 @@ A evolving practice
 - JSON support
 - Fullstack through
 - Sql & noSql determined
+
+Abstraction
+
