@@ -7,6 +7,3 @@ A evolving practice
 - Fullstack through
 - Sql & noSql determined
 
-## Abstraction
-
-##
